@@ -19,3 +19,5 @@ Roteiro para criação do projeto:
 -------------------------------------------------------------------
 
 ![Captura de tela 2024-04-09 193001](https://github.com/Pedrinhopb/Faculdade/assets/117366883/ce8024c4-2a1f-4ed8-8fa0-0f54de67cd9d)
+![Captura de tela 2024-04-09 193016](https://github.com/Pedrinhopb/Faculdade/assets/117366883/0a752f54-1cb4-4c21-8995-f15fe4fbbc7a)
+![Captura de tela 2024-04-09 193028](https://github.com/Pedrinhopb/Faculdade/assets/117366883/65a43de4-7cf1-4b38-ad79-a1a634b9ea13)
