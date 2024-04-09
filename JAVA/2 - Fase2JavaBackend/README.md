@@ -15,3 +15,7 @@ Roteiro para criação do projeto:
 6. Adicione as referências para os repositories no respectivo controller
 7. Insira valores usando Postman ou Insomnia
 8. Implemente a lógica para as situações de erro (ex. quando se tentar acessar um registro que não existe)
+
+-------------------------------------------------------------------
+
+![Captura de tela 2024-04-09 193001](https://github.com/Pedrinhopb/Faculdade/assets/117366883/ce8024c4-2a1f-4ed8-8fa0-0f54de67cd9d)
